@@ -1,0 +1,29 @@
+{
+  "pack": {
+    "pack_format": 88,
+    "min_format": 15,
+    "max_format": 88,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 88
+    },
+    "description": {
+      "text": "§7Made by ",
+      "extra": [
+        {
+          "text": "Herobrine_dude",
+          "bold": true,
+          "color": "#CFA0F3"
+        },
+        {
+          "text": "\n§8Original by ",
+          "color": "gray"
+        },
+		{
+          "text": "Darkness_Lim",
+          "color": "#858585"
+        }
+      ]
+    }
+  }
+}
